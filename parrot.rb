@@ -3,3 +3,5 @@
 def parrot(*p)
   p "Squawk!"
 end
+
+parrot
